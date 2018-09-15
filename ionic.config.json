@@ -1,0 +1,7 @@
+{
+  "name": "testVideoJS",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
